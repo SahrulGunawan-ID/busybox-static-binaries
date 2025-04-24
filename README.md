@@ -4,6 +4,7 @@
 Repository ini menyediakan **BusyBox static binaries** untuk platform berikut:
 .<br>
 ├── busybox-arm<br>
+├── busybox-arm_new<br>
 └── busybox-arm64<br>
 
 1 directory, 2 files<br>
